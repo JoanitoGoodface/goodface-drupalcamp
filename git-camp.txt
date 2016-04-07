@@ -1,2 +1,2 @@
 all
-Drupalcamp Guadalajara 2016
+Drupalcamp Guadalajara
